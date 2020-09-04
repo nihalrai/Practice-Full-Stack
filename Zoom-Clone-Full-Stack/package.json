@@ -1,0 +1,11 @@
+{
+  "name": "zoom-clone-full-stack",
+  "version": "1.0.0",
+  "description": "## Thanks <a href=\"https://www.youtube.com/channel/UCqrILQNl5Ed9Dz6CGMyvMTQ\">Clever Programmer</a> for the awesome <a href=\"https://www.youtube.com/watch?v=ZVznzY7EjuY\">video</a>",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
