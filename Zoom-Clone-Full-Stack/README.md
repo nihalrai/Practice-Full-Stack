@@ -2,7 +2,8 @@
 
 ## Thanks <a href="https://www.youtube.com/channel/UCqrILQNl5Ed9Dz6CGMyvMTQ">Clever Programmer</a> for the awesome <a href="https://www.youtube.com/watch?v=ZVznzY7EjuY">video</a>
 
-# Plan of Action 
+
+## Plan of Action 
 
 > Initialize our NodeJS Project
 
@@ -21,3 +22,12 @@
 > Add mute button
 
 > Add stop meeting button
+
+
+## Few steps to remember
+
+> Install
+
+```shell
+    express, nodemon
+```
