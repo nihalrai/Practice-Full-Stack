@@ -3,7 +3,7 @@
 ## Thanks <a href="https://www.youtube.com/channel/UCqrILQNl5Ed9Dz6CGMyvMTQ">Clever Programmer</a> for the awesome <a href="https://www.youtube.com/watch?v=ZVznzY7EjuY">video</a>
 
 
-## Plan of Action 
+## Plan of Action
 
 > Initialize our NodeJS Project
 
@@ -29,5 +29,5 @@
 > Install
 
 ```shell
-    express, nodemon
+    express, nodemon, ejs, socket.io, Peer
 ```
